@@ -1,0 +1,34 @@
+[General Info]
+Typestring = "PAX"
+Hostname = "localhost"
+Port = "2402"
+SlotNumber = 0
+Timeout = 3000
+
+[Hardware Info]
+CardSerial = "M00255249"
+SensorSerial = "M00255490"
+
+[Basic Setup]
+Wavelength = 6.329999564513855e-07
+BasicSampleRate = 66.66670227050781
+AzimuthOffset = 0
+PowerRange = 0
+
+[Sphere Setup]
+Periods = 2
+Buffers = 1
+FFTs = 1
+
+[Scope Setup]
+Periods = 2
+Buffers = 1
+FFTs = 1
+NumberMeasurements = 100
+RecordRate = 1
+PreTrigger = 0
+TriggerSource = 0
+
+[Extinction Ratio Setup]
+Seconds = 10
+
